@@ -1,0 +1,20 @@
+MTD COMPETATIVE PROGRAMMING TRAINING
+DAY 1 THURSDAY 06-03-2025
+
+IMPORTANT GIHTUB COMMANDS 
+
+git status //to know the current status of our repo
+
+git clone https://github.com/VIKAS2504/mtd_c_py  //to download the repo
+
+git pull origin main //to download the updated repo from the server to the local machine
+
+//to  make our computer recognise our git account, we must run these 2 commands:
+git config --global user.name "VIKAS2504"
+git config --global user.email "bmvikas25@gmail.com"
+
+git clone https://<PAT>@github.com/VIKAS2504/mtd_c_py 
+
+git add . //git will mark all files that need to be updated 
+git commit -m "notes file of the mtd training is added" //creates an object that will include all the files to be uploaded and also it is secured(encryption)
+git push origin main // 
