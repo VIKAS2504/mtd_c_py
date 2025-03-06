@@ -15,6 +15,9 @@ git config --global user.email "bmvikas25@gmail.com"
 
 git clone https://<PAT>@github.com/VIKAS2504/mtd_c_py 
 
-git add . //git will mark all files that need to be updated 
+git add . //git will mark(stage) all files that need to be updated 
 git commit -m "notes file of the mtd training is added" //creates an object that will include all the files to be uploaded and also it is secured(encryption)
 git push origin main // 
+
+gcc filename.c//to compile the program
+a.exe//to run the code
