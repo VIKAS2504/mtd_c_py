@@ -19,5 +19,29 @@ git add . //git will mark(stage) all files that need to be updated
 git commit -m "notes file of the mtd training is added" //creates an object that will include all the files to be uploaded and also it is secured(encryption)
 git push origin main // 
 
-gcc filename.c//to compile the program
+gcc filename.c//to compile the program        
 a.exe//to run the code
+
+//type casting
+float num = 11 / 3;
+printf("%f",num);
+
+DAY 2 FRIDAY 07-03-2025
+
+Arithmetic operators : + - * / %
+All the binary operators
+I/P are numbers
+O/P is number
+Used with Infix notation
+To perform any arithmetic operation,DT of both the operands must be same 
+Left to right associativity w.r.t reading the values/expressions
+For the calculations to happen,the user/programmer given infix expression must be converted to postfix
+The operators have different hierarchy(precedence)
+--------------------------------------------------------------------------------------------------------------------
+Relational opearators: > < == != >= <= 
+
+for(int i=1;i<=10;i++)
+for(int i=1;i<11;i++)
+--------------------------------------
+Logical operators : | & ~ ~& ~|
+
