@@ -55,7 +55,7 @@ range(10, -5, -2)
 
 ---------------------------------
 
-
+1.input string
 
 3.remove duplicate digits
 4.form biggest using even numbers
