@@ -61,3 +61,10 @@ range(10, -5, -2)
 4.form biggest using even numbers
 
 API key = 954556534102e5c8d066cfc95ca84874
+------------------------------------------------------------
+DAY5
+NAME    ORDERED    MUTABLE   DEFINITION
+List    Yes         Yes      Is a DS in which elements
+                             are stored consecutively
+Tuple   Yes         No       It is read only list
+Set     No          
