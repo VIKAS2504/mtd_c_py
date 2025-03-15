@@ -8,8 +8,9 @@ def check_is_prime(number):
 
 
 num = int(input("Enter the number to be checked: "))
-value = check_is_prime(num)
-if value == True:
-    print('Its a prime number')
-else:
-    print("Its not prime number")
+for i in range(1,num):
+    value = check_is_prime(num)
+    if value == True:
+        print('Its a prime number')
+    else:
+        print(f"{i} Its not prime number") 
